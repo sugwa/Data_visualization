@@ -2,7 +2,7 @@
 
 # [期末项目链接在这里！！](https://sugwa.github.io/Data_visualization/)
 
-# [和18同学合作的Pythonanywhere链接在这里！！](http://heyyaqingzhou.pythonanywhere.com/new)
+# [和18同学合作的Pythonanywhere链接在这里！！](http://heyyaqingzhou.pythonanywhere.com/)
 
 ### 想看数据故事可以在本readme档下面看纯文字版……
 
