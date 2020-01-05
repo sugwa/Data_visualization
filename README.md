@@ -14,7 +14,7 @@
 # 使用技能
 - 数据清洗
 
-- 使用pyechat和plotly方式制作图表
+- 使用pyechat方式制作图表
 
 - CSS技能
 
