@@ -4,7 +4,7 @@
 
 # [和18同学合作的Pythonanywhere链接在这里！！](http://heyyaqingzhou.pythonanywhere.com/new)
 
-# 想看数据故事可以在本readme档看纯文字版
+### 想看数据故事可以在本readme档下面看纯文字版……
 
 # 研究项目
 - 探究营养不良的发生率和每个国家人均GDP之间关系
